@@ -1,7 +1,8 @@
 # Add  code here!
 def prime?()
-if
+if 
   returns true
 else
   returns false
+end
 end
