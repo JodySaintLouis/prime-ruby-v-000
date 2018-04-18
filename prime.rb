@@ -1,5 +1,5 @@
 # Add  code here!
-def prime?()
+def prime?(odd)
 if
   returns true
 else
