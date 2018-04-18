@@ -3,6 +3,6 @@ def prime?(prime)
 if
   returns true
 else
-  returns false
+  returns false #non-prime numbers
  end
 end
